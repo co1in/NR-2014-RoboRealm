@@ -1,0 +1,73 @@
+<head><version>2.59.10</version></head>
+<Axis_Internet_Camera>
+  <auto_back_light>FALSE</auto_back_light>
+  <auto_exposure>FALSE</auto_exposure>
+  <auto_white_balance>FALSE</auto_white_balance>
+  <is_active>FALSE</is_active>
+</Axis_Internet_Camera>
+<Radial_Distortion>
+  <crop_image>FALSE</crop_image>
+</Radial_Distortion>
+<Marker>
+  <include_graphics>0</include_graphics>
+  <name/>
+  <revert_to/>
+</Marker>
+<Color_Threshold/>
+<Blob_Size>
+  <mask>FALSE</mask>
+  <treat_as_color_image>FALSE</treat_as_color_image>
+</Blob_Size>
+<Fill>
+  <check_border>FALSE</check_border>
+  <fill_with_average_color>FALSE</fill_with_average_color>
+  <four_pixel_connectivity>FALSE</four_pixel_connectivity>
+</Fill>
+<Close>
+  <close_borders>TRUE</close_borders>
+  <restrict_dilation>FALSE</restrict_dilation>
+  <symmetrical>FALSE</symmetrical>
+</Close>
+<Blob_Replace>
+  <fill_shape>FALSE</fill_shape>
+  <order_array_on_x>FALSE</order_array_on_x>
+  <order_array_on_y>FALSE</order_array_on_y>
+  <thickness>1</thickness>
+</Blob_Replace>
+<Geometric_Statistics>
+  <basic_statistics>FALSE</basic_statistics>
+</Geometric_Statistics>
+<Display_Variables>
+  <dim_background>FALSE</dim_background>
+  <display_as_annotation>FALSE</display_as_annotation>
+  <display_value_only>FALSE</display_value_only>
+  <font_size>Tiny (6pt)</font_size>
+</Display_Variables>
+<Marker>
+  <include_graphics>0</include_graphics>
+  <name/>
+  <revert_to/>
+</Marker>
+<Threshold/>
+<Blob_Size>
+  <mask>FALSE</mask>
+  <treat_as_color_image>FALSE</treat_as_color_image>
+</Blob_Size>
+<Fill>
+  <check_border>FALSE</check_border>
+  <fill_with_average_color>FALSE</fill_with_average_color>
+  <four_pixel_connectivity>FALSE</four_pixel_connectivity>
+</Fill>
+<Blob_Colorize>
+  <sensitivity>75</sensitivity>
+</Blob_Colorize>
+<Threshold/>
+<Blob_Replace>
+  <fill_shape>FALSE</fill_shape>
+  <order_array_on_x>FALSE</order_array_on_x>
+  <order_array_on_y>FALSE</order_array_on_y>
+  <thickness>1</thickness>
+</Blob_Replace>
+<Geometric_Statistics>
+  <basic_statistics>FALSE</basic_statistics>
+</Geometric_Statistics>
